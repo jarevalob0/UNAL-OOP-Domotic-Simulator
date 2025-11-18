@@ -1,4 +1,4 @@
-Workshop 3 – SOLID Principles
+# Workshop 3 – SOLID Principles
 
 Refines the project using SOLID design principles.
 
